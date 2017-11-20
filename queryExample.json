@@ -1,0 +1,11 @@
+  {
+  "fields": ["a","b","c"],
+  "filters": {"and":[
+
+  {
+      "field": "e",
+      "value": 3,
+      "predicate": "lt"
+  }
+  ]
+  }}
